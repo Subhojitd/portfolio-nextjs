@@ -15,11 +15,12 @@ export default function Home() {
         <Navbar/>
 
         <div className="w-full h-[88vh] xl:flex items-center gap-20 justify-between">
-        <div className="hidden xl:inline-flex w-32 h-full fixed bottom-[200px]">
+        <div className="hidden xl:inline-flex w-32 h-full fixed bottom-[150px]">
           <LeftSide/>
         </div>
-        <div></div>
-        <div></div>
+        <div className="h-[88vh] mx-auto p-4">
+        
+        </div>
         </div>
       </main>
     
