@@ -35,11 +35,7 @@ const Navbar = () => {
         </Link>
       </ul>
 
-      <a href="/assets/Subhajit_Das(Resume).pdf" target='_blank'>
-        <motion.button initial={{opacity:0}} animate={{opacity:1}} transition={{delay: 0.5}} className='px-4 py-2 rounded-md text-gray-200 text-[13px] border border-gray-200 hover:bg-hoverColor duration-300'>
-        Resume
-      </motion.button>
-      </a>
+      
     </div>
 
   {/* Icon -- Dropdown */}

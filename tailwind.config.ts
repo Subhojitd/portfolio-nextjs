@@ -32,6 +32,7 @@ const config: Config = {
       fontFamily: {
         bodyFont :["Montserrat","sans-serif"],
         titleFont : ["Inter", "sans-serif"],
+        headFont : ['Bungee Spice', "sans-serif"],
         logoFont : ['Shadows Into Light',"cursive"]
       },
       boxShadow:{
@@ -39,7 +40,7 @@ const config: Config = {
       },
       colors :{
         bodyColor: "#0A192f",
-        textGreen: "#e2e8f0",
+        textGreen: "#7c3aed",
         textLight: "#ccd6f6",
         textDark: "#8892b0",
         hoverColor: "rgba(100,255,218,0.1)",
